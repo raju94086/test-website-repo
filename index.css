@@ -6,6 +6,7 @@ body{
     background: url(/daniel-apodaca-Ir7sTiBHsQg-unsplash.jpg) no-repeat center center fixed;
     background-size: cover;
     color: white;
+    background: #234;
 }
 .container{
     /* border: 5px solid gray; */
