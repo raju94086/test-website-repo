@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+body{
+    background: url(/daniel-apodaca-Ir7sTiBHsQg-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+.container{
+    /* border: 5px solid gray; */
+    position: absolute;
+    top: 45%;
+    left: 35%;
+}
+.container h1{
+    font-size: 45px;
+    /* margin-left: 15%; */
+    margin-bottom: 25px;
+    
+    border-bottom: 2px solid purple;
+    padding: 5px;
+    display: inline-block;
+
+}
+.box{
+    width: 100%;
+    /* border: 2px solid purple; */
+    border-bottom: 2px solid purple;
+    
+}
+.box i{
+    width: 25px;
+    float: left;
+    text-align: center;
+    
+
+}
+
+
+    
+
+.box input{
+
+    width: 100%;
+    outline: none;
+    border: none;
+    width: 75%;
+    /* margin: 5px 53px 5px; */
+    font-size: 20px;
+
+    padding: 2px 5px;
+    border-radius: 4px;
+    background: none;
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+    width: 25%;
+    margin: 6px 0;
+    padding: 6px;
+    
+    border-radius: 15px;
+    background: none;
+    border: 2px solid purple;
+    color: white;
+
+}
